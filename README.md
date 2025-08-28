@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 ## Files
 - `notebooks/metadata_tagging_ner.ipynb`: Main notebook with entity tagging, visualization, and file-saving.
-- `data/Data_Train.csv`: Input training dataset.
-- `data/Data_Test.csv`: Input test dataset.
+- `data/Data_Train.csv`: [Input training dataset](https://www.kaggle.com/datasets/akash14/news-category-dataset)
+- `data/Data_Test.csv`: [Input test dataset](https://www.kaggle.com/datasets/akash14/news-category-dataset)
 - `requirements.txt`: Dependency list.
 
 ## Future Improvements
